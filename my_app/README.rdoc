@@ -1,28 +1,9 @@
-== README
+== お詫び
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+課題に対しては理解しておりましたが、コードとして具現するには実力が足りないんでした。
+Railsの使い方にもすぐに慣れることができなかったので仕組みをどうすれば良いのが悩んだ結果、問題解決には失敗しました。
+Linux環境で単純なページを作ること以外には前に進むことができませんでした。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+大変申し訳ありません。Railsに対してもっと勉強した後で再び挑戦して見せます。
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
